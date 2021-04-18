@@ -1,4 +1,4 @@
-# Deep-kid-youngmi2
+### Deep-kid-youngmi2
 # 밑바닥부터 시작하는 딥러닝2 스터디
 ![밑바닥부터 시작하는 딥러닝2]((https://github.com/WegraLee/deep-learning-from-scratch-2/raw/master/cover.png)<br><br>
 **『밑바닥부터 시작하는 딥러닝❷ (Deep Learning from Scratch 2)』 (한빛미디어, 2019)**<br>
