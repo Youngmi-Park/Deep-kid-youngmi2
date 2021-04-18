@@ -6,7 +6,6 @@
 
 ---
 
----
 ### ✨ 스터디 계획<br>
 💜 with.아정 [@aaajeong](https://github.com/aaajeong)
 
