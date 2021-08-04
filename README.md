@@ -1,4 +1,3 @@
-### Deep-kid-youngmi2
 # 밑바닥부터 시작하는 딥러닝2 스터디
 ![밑바닥부터 시작하는 딥러닝2](https://www.hanbit.co.kr/data/books/B8950212853_l.jpg)<br><br>
 
